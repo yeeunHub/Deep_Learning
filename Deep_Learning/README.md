@@ -17,7 +17,7 @@ Using the diverse datasets, I showcase a prediction model as well as clustering 
 
 ### Technologies
 * Python
-* Pandas, jupyter
+* Pandas, Googlecolab
 * scikit-learn
 
 ## Project Description
