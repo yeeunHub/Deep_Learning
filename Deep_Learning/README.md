@@ -2,6 +2,37 @@ Deep_Learning
 ==============================
 
 Deep_Learning_Projects
+#### -- Project Status: Active
+
+## Project Intro/Objective
+The purpose of this project is to apply and train Machine Learning Development and Deep Learning modelling for diverse use case in busienss and academia.  
+Using the diverse datasets, I showcase a prediction model as well as clustering analysis.
+
+
+### Methods Used
+* Machine Learning
+* Deep Learning: NLP
+* Data Visualization
+* Predictive Modeling
+
+### Technologies
+* Python
+* Pandas, Googlecolab
+* scikit-learn
+
+## Project Description
+
+## Needs of this project
+
+## Getting Started
+1. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+
+
+## Featured Notebooks
+* [Main Modelling Notebook](notebooks/NLP_academic_article_topic_selection.ipynb)
+
+
 
 Project Organization
 ------------
@@ -19,7 +50,7 @@ Project Organization
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+    ├── notebooks          <- GoogleColab notebooks. Naming convention is a number (for ordering),
     │                         the creator's initials, and a short `-` delimited description, e.g.
     │                         `1.0-jqp-initial-data-exploration`.
     │
